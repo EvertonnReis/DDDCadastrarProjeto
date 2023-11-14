@@ -1,0 +1,15 @@
+C:\Users\evert\Source\Repos\DDD.Universidade\PlataformaUniversidadeDDD\DDD.Domain.Service\obj\Debug\net6.0\DDD.Domain.Service.csproj.AssemblyReference.cache
+C:\Users\evert\Source\Repos\DDD.Universidade\PlataformaUniversidadeDDD\DDD.Domain.Service\obj\Debug\net6.0\DDD.Domain.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evert\Source\Repos\DDD.Universidade\PlataformaUniversidadeDDD\DDD.Domain.Service\obj\Debug\net6.0\DDD.Domain.Service.AssemblyInfoInputs.cache
+C:\Users\evert\Source\Repos\DDD.Universidade\PlataformaUniversidadeDDD\DDD.Domain.Service\obj\Debug\net6.0\DDD.Domain.Service.AssemblyInfo.cs
+C:\Users\evert\Source\Repos\DDD.Universidade\PlataformaUniversidadeDDD\DDD.Domain.Service\obj\Debug\net6.0\DDD.Domain.Service.csproj.CoreCompileInputs.cache
+C:\Users\evert\Source\Repos\DDD.Universidade\PlataformaUniversidadeDDD\DDD.Domain.Service\bin\Debug\net6.0\DDD.Domain.Service.deps.json
+C:\Users\evert\Source\Repos\DDD.Universidade\PlataformaUniversidadeDDD\DDD.Domain.Service\bin\Debug\net6.0\DDD.Domain.Service.dll
+C:\Users\evert\Source\Repos\DDD.Universidade\PlataformaUniversidadeDDD\DDD.Domain.Service\bin\Debug\net6.0\DDD.Domain.Service.pdb
+C:\Users\evert\Source\Repos\DDD.Universidade\PlataformaUniversidadeDDD\DDD.Domain.Service\bin\Debug\net6.0\DDD.Domain.dll
+C:\Users\evert\Source\Repos\DDD.Universidade\PlataformaUniversidadeDDD\DDD.Domain.Service\bin\Debug\net6.0\DDD.Domain.pdb
+C:\Users\evert\Source\Repos\DDD.Universidade\PlataformaUniversidadeDDD\DDD.Domain.Service\obj\Debug\net6.0\DDD.Domain.Service.csproj.CopyComplete
+C:\Users\evert\Source\Repos\DDD.Universidade\PlataformaUniversidadeDDD\DDD.Domain.Service\obj\Debug\net6.0\DDD.Domain.Service.dll
+C:\Users\evert\Source\Repos\DDD.Universidade\PlataformaUniversidadeDDD\DDD.Domain.Service\obj\Debug\net6.0\refint\DDD.Domain.Service.dll
+C:\Users\evert\Source\Repos\DDD.Universidade\PlataformaUniversidadeDDD\DDD.Domain.Service\obj\Debug\net6.0\DDD.Domain.Service.pdb
+C:\Users\evert\Source\Repos\DDD.Universidade\PlataformaUniversidadeDDD\DDD.Domain.Service\obj\Debug\net6.0\ref\DDD.Domain.Service.dll

@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "DDD.Application.Service/1.0.0": {
+        "dependencies": {
+          "DDD.Domain.Service": "1.0.0"
+        },
+        "runtime": {
+          "DDD.Application.Service.dll": {}
+        }
+      },
+      "DDD.Domain/1.0.0": {
+        "runtime": {
+          "DDD.Domain.dll": {}
+        }
+      },
+      "DDD.Domain.Service/1.0.0": {
+        "dependencies": {
+          "DDD.Domain": "1.0.0"
+        },
+        "runtime": {
+          "DDD.Domain.Service.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DDD.Application.Service/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DDD.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DDD.Domain.Service/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

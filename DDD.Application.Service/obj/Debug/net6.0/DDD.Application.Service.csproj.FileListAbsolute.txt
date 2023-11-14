@@ -1,0 +1,17 @@
+C:\Users\evert\Source\Repos\DDD.Universidade\PlataformaUniversidadeDDD\DDD.Application.Service\obj\Debug\net6.0\DDD.Application.Service.csproj.AssemblyReference.cache
+C:\Users\evert\Source\Repos\DDD.Universidade\PlataformaUniversidadeDDD\DDD.Application.Service\obj\Debug\net6.0\DDD.Application.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evert\Source\Repos\DDD.Universidade\PlataformaUniversidadeDDD\DDD.Application.Service\obj\Debug\net6.0\DDD.Application.Service.AssemblyInfoInputs.cache
+C:\Users\evert\Source\Repos\DDD.Universidade\PlataformaUniversidadeDDD\DDD.Application.Service\obj\Debug\net6.0\DDD.Application.Service.AssemblyInfo.cs
+C:\Users\evert\Source\Repos\DDD.Universidade\PlataformaUniversidadeDDD\DDD.Application.Service\obj\Debug\net6.0\DDD.Application.Service.csproj.CoreCompileInputs.cache
+C:\Users\evert\Source\Repos\DDD.Universidade\PlataformaUniversidadeDDD\DDD.Application.Service\bin\Debug\net6.0\DDD.Application.Service.deps.json
+C:\Users\evert\Source\Repos\DDD.Universidade\PlataformaUniversidadeDDD\DDD.Application.Service\bin\Debug\net6.0\DDD.Application.Service.dll
+C:\Users\evert\Source\Repos\DDD.Universidade\PlataformaUniversidadeDDD\DDD.Application.Service\bin\Debug\net6.0\DDD.Application.Service.pdb
+C:\Users\evert\Source\Repos\DDD.Universidade\PlataformaUniversidadeDDD\DDD.Application.Service\bin\Debug\net6.0\DDD.Domain.dll
+C:\Users\evert\Source\Repos\DDD.Universidade\PlataformaUniversidadeDDD\DDD.Application.Service\bin\Debug\net6.0\DDD.Domain.Service.dll
+C:\Users\evert\Source\Repos\DDD.Universidade\PlataformaUniversidadeDDD\DDD.Application.Service\bin\Debug\net6.0\DDD.Domain.Service.pdb
+C:\Users\evert\Source\Repos\DDD.Universidade\PlataformaUniversidadeDDD\DDD.Application.Service\bin\Debug\net6.0\DDD.Domain.pdb
+C:\Users\evert\Source\Repos\DDD.Universidade\PlataformaUniversidadeDDD\DDD.Application.Service\obj\Debug\net6.0\DDD.Application.Service.csproj.CopyComplete
+C:\Users\evert\Source\Repos\DDD.Universidade\PlataformaUniversidadeDDD\DDD.Application.Service\obj\Debug\net6.0\DDD.Application.Service.dll
+C:\Users\evert\Source\Repos\DDD.Universidade\PlataformaUniversidadeDDD\DDD.Application.Service\obj\Debug\net6.0\refint\DDD.Application.Service.dll
+C:\Users\evert\Source\Repos\DDD.Universidade\PlataformaUniversidadeDDD\DDD.Application.Service\obj\Debug\net6.0\DDD.Application.Service.pdb
+C:\Users\evert\Source\Repos\DDD.Universidade\PlataformaUniversidadeDDD\DDD.Application.Service\obj\Debug\net6.0\ref\DDD.Application.Service.dll
